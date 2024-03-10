@@ -1,0 +1,7 @@
+[project]
+name = "apnic-dnssec"
+version = "1.0.0"
+description = "Maintain RDNS DNSSEC records using the APNIC API"
+dependencies = [
+    "requests",
+]

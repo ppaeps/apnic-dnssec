@@ -1,0 +1,6 @@
+apnic.secret
+.venv/
+
+*.egg-info/
+*.pyc
+__pycache__/
